@@ -1,0 +1,19 @@
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --cream: #faf9f7;
+  --ink: #1a1a18;
+  --muted: #8a8a85;
+  --accent: #c8a96e;
+  --border: #e8e6e0;
+}
+
+html { scroll-behavior: smooth; }
+
+body {
+  font-family: 'Jost', sans-serif;
+  background: #ffffff;
+  color: var(--ink);
+  font-weight: 300;
+  overflow-x: hidden;
+}
