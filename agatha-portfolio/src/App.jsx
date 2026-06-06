@@ -210,8 +210,7 @@ function Contact() {
       <FadeIn delay={0.2}>
         <ul className="contact-links">
         <li><a href="https://www.instagram.com/aggiedaltonn/" target="_blank" rel="noreferrer">Instagram</a></li>
-<li><a href="mailto:acc23021@uconn.edu">Email</a></li>
-<li><a href="#">Press Kit</a></li>
+        <li><a href="mailto:aggiedaltonn@gmail.com">Email</a></li>
         </ul>
       </FadeIn>
     </section>
