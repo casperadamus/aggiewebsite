@@ -8,6 +8,10 @@ import figureBack     from './assets/figure-back.jpg'
 import drapery        from './assets/drapery.jpg'
 import gallopingHorse from './assets/galloping-horse.jpg'
 import trashBagStudio from './assets/trash-bag-studio.jpg'
+import stairs from './assets/stairs.jpg'
+import jeff from './assets/jeff.jpg'
+import paper from './assets/paper.jpg'
+import chairs from './assets/chairs.jpg'
 
 export const ARTWORKS = [
   {
@@ -86,6 +90,38 @@ export const ARTWORKS = [
     id: 10,
     src: trashBagStudio,
     title: 'Still Life (Bag)',
+    medium: 'Charcoal on paper',
+    year: '2023',
+    cat: 'drawing',
+  },
+  {
+    id: 11,
+    src: stairs,
+    title: 'Stairs',
+    medium: 'Charcoal on paper',
+    year: '2023',
+    cat: 'drawing',
+  },
+  {
+    id: 12,
+    src: jeff,
+    title: 'Jeff',
+    medium: 'Charcoal on paper',
+    year: '2023',
+    cat: 'drawing',
+  },
+  {
+    id: 13,
+    src: paper,
+    title: 'Paper',
+    medium: 'Charcoal on paper',
+    year: '2023',
+    cat: 'drawing',
+  },
+  {
+    id: 14,
+    src: chairs,
+    title: 'Chairs',
     medium: 'Charcoal on paper',
     year: '2023',
     cat: 'drawing',
