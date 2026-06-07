@@ -184,7 +184,7 @@ function About() {
           <div className="about-stats">
             {[
               { num: '10+', label: 'Works Shown' },
-              { num: '3+', label: 'Years Drawing' },
+              { num: '17+', label: 'Years Drawing' },
               { num: '∞', label: 'Poses Studied' },
             ].map(s => (
               <div key={s.label}>
